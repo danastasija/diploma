@@ -1,0 +1,22 @@
+html,
+body {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+
+.form-with-float-header div:first-child {
+  margin-right: 220px;
+}
+
+.form-input--short {
+  width: 200px;
+}
+.shadowed {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .12), 0 0 6px rgba(0, 0, 0, .04);
+}
+.shadowed-light {
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1)
+}
+.form-title {
+  font-size: 12px;
+  line-height: 20px;
+}
